@@ -8,6 +8,9 @@
 - :e-mail: m_rojas18@unitec.edu
 - :link: [github.com/m_rojas18](https://github.com/m-rojas18)
 - :calendar: 09-09-2020 20:00 CST
+---
+## :dart: Objetivos
+![](Imagenes/c++.png)
 
 ## :computer: Código
 - :blue_book: [hanoi_texto.cpp] (https://github.com/m-rojas18/C_TDH.git)
