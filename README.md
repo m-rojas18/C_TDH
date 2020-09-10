@@ -10,7 +10,13 @@
 - :calendar: 09-09-2020 20:00 CST
 ---
 ## :dart: Objetivos
-![](Imagenes/c++.png)
+![](c++.png)
+
+## :black_circle: hanoi_texto.cpp
+![](Imagen_Hanoi.png)
+
+## :red_circle: Salida:
+![](Salida_hanoi_texto.png)
 
 ## :computer: Código
 - :blue_book: [hanoi_texto.cpp] (https://github.com/m-rojas18/C_TDH.git)
