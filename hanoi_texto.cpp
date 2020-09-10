@@ -1,4 +1,4 @@
-//hanoi_texto.cpp -Miguel Rojas - 11941201
+//hanoi_texto.cpp - Miguel Rojas - 11941201
 #include <iostream>
 using namespace std;
 
