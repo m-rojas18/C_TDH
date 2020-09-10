@@ -23,7 +23,7 @@ Un programa  de **C++** diseñado para :
 ![](Salida_hanoi_texto.png)
 
 ## Descripcion 
--> El programa muestra el cambio entre la aguja principal a la aguja destino teniendo tambien una aguja temporal para sostener los cambion , y asi mostrar la serie de movimientos del problema de  las "Torres de Hanoi".
+-> El programa muestra el cambio entre la aguja principal a la aguja destino teniendo tambien una aguja temporal para sostener un cambio a la vez, y asi mostrar la serie de movimientos del problema de  las "Torres de Hanoi".
 
 ## :computer: Código
 - :blue_book: [hanoi_texto.cpp] (https://github.com/m-rojas18/C_TDH.git)
