@@ -10,7 +10,7 @@
 - :calendar: 09-09-2020 20:00 CST
 
 ## :computer: Código
-- :blue_book: [hanoi_texto.cpp] ()
+- :blue_book: [hanoi_texto.cpp] (https://github.com/m-rojas18/C_TDH.git)
 #### Herramientas:
 - :package: [Visual Studio Code](https://code.visualstudio.com/)
 - :camera: [Polacode-2020 v0.5.2](https://github.com/jeff-hykin/polacode)
